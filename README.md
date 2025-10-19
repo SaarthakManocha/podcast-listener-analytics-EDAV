@@ -6,7 +6,7 @@
 This project analyzes podcast listening patterns based on episode length and genre to uncover insights about listener engagement and content performance.
 
 ###  Files
-- `podcast_analytics.ipynb` - Complete analysis with all questions answered
+- `podcast_analytics-EDAV.ipynb` - Complete analysis with all questions answered
 - `podcast_data.csv` - Dataset used for analysis
 
 ###  Analysis Includes
