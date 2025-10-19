@@ -1,6 +1,6 @@
 # Podcast Listener Behavior Analytics
 
-## 📊 Exploratory Data Analysis and Visualization Course - End Project
+##  Exploratory Data Analysis and Visualization Course - End Project
 
 ### Project Overview
 This project analyzes podcast listening patterns based on episode length and genre to uncover insights about listener engagement and content performance.
